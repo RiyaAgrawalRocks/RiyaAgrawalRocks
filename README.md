@@ -1,5 +1,5 @@
 <h1 align="center">Hoo👻 Welcome to my profile✨</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10e8f4&height=150&section=header&text=Riya%20Agrawal&animation=fadeIn&fontColor=ffffff&Size=100" align="center" />
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=10e8f4&height=150&section=header&text=Riya%20Agrawal&animation=fadeIn&fontColor=ffffff&Size=100"/> </p>
 <h3 align="center">I'm an undergraduate student from IIT Bombay🎓, passionate about coding👩‍💻, web development🌐, graphic design🌸, learning new technologies📈, rocketry🚀 and fine arts🎨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaagrawalrocks&label=Profile%20views&color=0e75b6&style=flat" alt="riyaagrawalrocks" /> </p>
