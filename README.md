@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=10e8f4&height=150&section=header&text=Riya%20Agrawal&animation=fadeIn&fontColor=ffffff&Size=100"/> </p>
 <h3 align="center">I'm an undergraduate student from IIT Bombay🎓, passionate about coding👩‍💻, web development🌐, graphic design🌸, learning new technologies📈, rocketry🚀 and fine arts🎨.</h3>
 
-- 🔭 I’m currently working on [ITC Website](https://github.com/RiyaAgrawalRocks/ITC-website)
+- 🔭 I’m currently working on [AI Community Website](https://github.com/ITC-Web-Team/BlogPostAICommunity)
 
 - 🌱 I’m currently learning **Django**
 
@@ -18,8 +18,8 @@
 <a href="https://instagram.com/riyaagrawal_2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyaagrawal_2022" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100052806784525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riya agrawal" height="30" width="40" /></a>
 <a href="https://kaggle.com/riyaagrawalrocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="riyaagrawalrocks" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@riyaag0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@riyaag0105" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/riyaag0105" target="blank"><img align="center" src="https://i.pinimg.com/originals/ef/3c/3f/ef3c3fd973ce6890b32d27be7a050b62.png" alt="riyaag0105" height="45" width="60" /></a>
+<!--      <a href="https://www.hackerrank.com/@riyaag0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@riyaag0105" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/riyaag0105" target="blank"><img align="center" src="https://i.pinimg.com/originals/ef/3c/3f/ef3c3fd973ce6890b32d27be7a050b62.png" alt="riyaag0105" height="45" width="60" /></a>     -->
     
 </p>
 
@@ -43,14 +43,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="djangorest" height="40" width="50"/>
           
 </p>
-<h3 align="left">AI/ML:</h3> 
+<!--    <h3 align="left">AI/ML:</h3> 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="40" width="40"/>
-</p>
+</p>     -->
 <h3 align="left">Graphic Design:</h3> 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="adobe illustrator" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="adobe photoshop" height="40" width="40"/>
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="adobe illustrator" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="adobe photoshop" height="40" width="40"/>   -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" height="40" width="40" />
 </p>
 <h3 align="left">Others:</h3> 
@@ -59,15 +59,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" height="40" width="40" />
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" height="40" width="40" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="40" />    -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" height="40" width="40"/>
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" height="40" width="40"/>     -->
           
           
 </p>
