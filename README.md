@@ -84,6 +84,8 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaagrawalrocks&theme=tokyonight" alt="mystreak"/></p>
 
+<h3 align="left">Coding Statistics</h3>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@39cfbffc-5ac7-42df-b6a7-6305e86d423e/cb02cee5-82ae-4d29-9d78-fc3ea3ee0ae0.png" /></a>
 
 <h3 align="left">Profile Views</h3>
 <p><img src="https://profile-counter.glitch.me/{riyaagrawalrocks}/count.svg" alt="riyaagrawalrocks :: Visitor's Count" /></p>
