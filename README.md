@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [AI Community Website](https://github.com/ITC-Web-Team/BlogPostAICommunity)
 
-- 🌱 I’m currently learning **Django REST Framework**
+- 🌱 I’m currently learning **JavaScript and React**
 
-- 💬 Ask me about **C++, Java, Python, HTML, CSS and Django**
+- 💬 Ask me about **C++, Java, Python, HTML, CSS, Django and DjangoREST**
 
 - 📫 How to reach me: **riyaag0105@gmail.com**
 
