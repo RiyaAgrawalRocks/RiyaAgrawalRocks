@@ -2,11 +2,11 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=10e8f4&height=150&section=header&text=Riya%20Agrawal&animation=fadeIn&fontColor=ffffff&Size=100"/> </p>
 <h3 align="center">I'm an undergraduate student from IIT Bombay🎓, passionate about coding👩‍💻, web development🌐, graphic design🌸, learning new technologies📈, rocketry🚀 and fine arts🎨.</h3>
 
-- 🔭 I’m currently working on [AI Community Website](https://github.com/ITC-Web-Team/BlogPostAICommunity)
+- 🔭 I’m currently working on [AI Community Website](https://github.com/ITC-Web-Team/BlogPostAICommunity) and [To-Do-List](https://github.com/RiyaAgrawalRocks/To-Do-List)
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **NextJS and Tailwind CSS**
 
-- 💬 Ask me about **C++, Java, Python, HTML, CSS, Django and DjangoREST**
+- 💬 Ask me about **C++, Java, Python, HTML, CSS, Django, DjangoREST and JavaScript**
 
 - 📫 How to reach me: **riyaag0105@gmail.com**
 
