@@ -90,7 +90,8 @@
 <img src="https://i.sstatic.net/ogimG.png" alt="latex" height="30" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" width="40"/>
 <img src="https://a.fsdn.com/allura/s/overleaf/icon?1649743682?&w=148" alt="overleaf" height="40" width="40"/>                           
-             
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-plain.svg" alt="moodle" height="40" width="40"/>
+                       
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" height="40" width="40"/>     -->
           
           
