@@ -27,8 +27,7 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
- alt="python" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" height="40" width="40" />
 </p>
 <h3 align="left">Frontend Development:</h3>  
 <p align="left">
@@ -75,20 +74,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" width="40" />
+<img src="https://static-00.iconduck.com/assets.00/github-icon-1024x994-4h5sdmko.png" alt="github" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/>
-
+<img src="https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/512/Command_Prompt.png" alt="commandprompt" height="40" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" height="40" width="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4YCKCHw2EochOKdSEoGgCxv7SDl4Uk5cJA&s" alt="bluej" height="40" width="40"/>   
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WinSCP_6_Logo.png" alt="winscp" height="40" width="40"/>   
+<img src="https://cdn-icons-png.flaticon.com/512/888/888850.png" alt="msexcel" height="40" width="40"/>  
 
 </p>
 
 <h3 align="left">Others:</h3> 
 <p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40" width="40"/>
+<img src="https://i.sstatic.net/ogimG.png" alt="latex" height="30" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" width="40"/>
-                           
-          
+<img src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" alt="arduino" height="40" width="40"/>                           
+             
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" height="40" width="40"/>     -->
           
           
