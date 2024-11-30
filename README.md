@@ -51,11 +51,10 @@
  <h3 align="left">AI/ML:</h3> 
 <p align="left">
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="40" width="40"/>    -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="40" width="50"/>
-                                     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" height="40" width="50"/>                                     
 </p>     
 
 <h3 align="left">Graphic Design:</h3> 
@@ -90,7 +89,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40" width="40"/>
 <img src="https://i.sstatic.net/ogimG.png" alt="latex" height="30" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" width="40"/>
-<img src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" alt="arduino" height="40" width="40"/>                           
+<img src="https://a.fsdn.com/allura/s/overleaf/icon?1649743682?&w=148" alt="overleaf" height="40" width="40"/>                           
              
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" height="40" width="40"/>     -->
           
