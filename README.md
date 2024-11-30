@@ -81,7 +81,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4YCKCHw2EochOKdSEoGgCxv7SDl4Uk5cJA&s" alt="bluej" height="40" width="40"/>   
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WinSCP_6_Logo.png" alt="winscp" height="40" width="40"/>   
 <img src="https://cdn-icons-png.flaticon.com/512/888/888850.png" alt="msexcel" height="40" width="40"/>  
-
+<img src="https://petrurares.md/media/PosterVideo/pngwing.com.png" alt="codeblocks" height="40" width="40"/>  
 </p>
 
 <h3 align="left">Others:</h3> 
