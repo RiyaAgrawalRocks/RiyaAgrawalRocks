@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS and Tailwind CSS**
 
-- 💬 Ask me about **C++, Java, Python, HTML, CSS, Django, DjangoREST and JavaScript**
+- 💬 Ask me about **C++, Java, Python, HTML, CSS, Django, and DjangoREST**
 
 - 📫 How to reach me: **riyaag0105@gmail.com**
 
@@ -34,19 +34,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   alt="html" height="40" width="40"/>
+    <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" height="40" width="50" />  
+    -->
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="40" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" height="40" width="50" />  
+
 </p>
 <h3 align="left">Backend Development:</h3>  
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
    alt="django" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="djangorest" height="40" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" height="40" width="50" />
-                                                
+<!--
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" height="40" width="50" />
+-->                                          
 </p>
  <h3 align="left">AI/ML:</h3> 
 <p align="left">
@@ -54,7 +58,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="40" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" height="40" width="50"/>                                     
+<!--
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" height="40" width="50"/>      
+    -->
 </p>     
 
 <h3 align="left">Graphic Design:</h3> 
@@ -86,7 +92,8 @@
 
 <h3 align="left">Others:</h3> 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40" width="40"/>
+    <!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40" width="40"/> -->
 <img src="https://i.sstatic.net/ogimG.png" alt="latex" height="30" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" width="40"/>
 <img src="https://a.fsdn.com/allura/s/overleaf/icon?1649743682?&w=148" alt="overleaf" height="40" width="40"/>                           
